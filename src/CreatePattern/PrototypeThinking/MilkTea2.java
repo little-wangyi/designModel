@@ -1,4 +1,4 @@
-package PrototypeThinking;
+package CreatePattern.PrototypeThinking;
 
 import com.sun.istack.internal.NotNull;
 

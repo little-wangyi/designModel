@@ -1,4 +1,4 @@
-package PrototypeThinking;
+package CreatePattern.PrototypeThinking;
 
 public class MilkTea {
     public String type;

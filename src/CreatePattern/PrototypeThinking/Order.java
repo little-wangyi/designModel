@@ -1,4 +1,4 @@
-package PrototypeThinking;
+package CreatePattern.PrototypeThinking;
 
 public class Order {
     public static void main(String[] args) throws CloneNotSupportedException {
